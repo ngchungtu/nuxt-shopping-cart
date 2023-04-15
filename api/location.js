@@ -1,0 +1,1 @@
+export const API_LOCATION = process.env.NUXT_ENV_URL_LOCATION
