@@ -5,3 +5,5 @@ api get locations:
 https://vapi.vnappmob.com/api/province/
 https://vapi.vnappmob.com/api/province/district/${id}
 https://vapi.vnappmob.com/api/province/ward/${id}
+
+nuxt shopping cart
